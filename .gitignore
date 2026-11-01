@@ -1,0 +1,5 @@
+node_modules/
+.env*
+*.private.*
+.heartbeat-request.json
+*-debug.log

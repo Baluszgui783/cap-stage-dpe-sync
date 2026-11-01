@@ -1,0 +1,1 @@
+{"name":"cap-stage-dpe-sync","version":"1.0.0","private":true,"type":"module","scripts":{"test":"node --test","sync":"node scripts/sync.mjs"},"engines":{"node":">=22.13"},"dependencies":{"@firebase/app":"0.16.2","firebase":"12.19.0"}}
